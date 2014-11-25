@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.11.14)  14 NOV 2014 11:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.11.14)  25 NOV 2014 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -149,41 +149,64 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 11.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
 
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[][]\OT1/cmr/m/n/10 An in-com-plete list of avail-able tools can be found at:
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 18.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
-
-<Rplot02.png, id=8, 868.24374pt x 569.12625pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
+ [1]
+<Rplot02.png, id=16, 868.24374pt x 569.12625pt>
 File: Rplot02.png Graphic file (type png)
  <use Rplot02.png>
-Package pdftex.def Info: Rplot02.png used on input line 35.
+Package pdftex.def Info: Rplot02.png used on input line 50.
 (pdftex.def)             Requested size: 390.0pt x 255.64418pt.
- [1] [2 <./Rplot02.png>] [3] (./Report.aux) ) 
+
+<etherpad1.png, id=18, 1078.0275pt x 620.3175pt>
+File: etherpad1.png Graphic file (type png)
+ <use etherpad1.png>
+Package pdftex.def Info: etherpad1.png used on input line 59.
+(pdftex.def)             Requested size: 390.0pt x 224.4121pt.
+
+<etherpad2.png, id=19, 880.28876pt x 554.07pt>
+File: etherpad2.png Graphic file (type png)
+ <use etherpad2.png>
+Package pdftex.def Info: etherpad2.png used on input line 65.
+(pdftex.def)             Requested size: 390.0pt x 245.47398pt.
+
+<mute.png, id=20, 834.11626pt x 652.4375pt>
+File: mute.png Graphic file (type png)
+ <use mute.png>
+Package pdftex.def Info: mute.png used on input line 75.
+(pdftex.def)             Requested size: 390.0pt x 305.0528pt.
+ [2] [3 <./Rplot02.png> <./etherpad1.png>] [4 <./etherpad2.png>] [5 <./mute.png
+>] (./Report.aux) ) 
 Here is how much of TeX's memory you used:
- 1534 strings out of 493117
- 22044 string characters out of 6135432
- 82352 words of memory out of 5000000
- 5002 multiletter control sequences out of 15000+600000
- 8893 words of font info for 31 fonts, out of 8000000 for 9000
+ 1555 strings out of 493117
+ 22351 string characters out of 6135432
+ 82376 words of memory out of 5000000
+ 5020 multiletter control sequences out of 15000+600000
+ 9507 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,8n,23p,327b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmti12.pfb>
-Output written on Report.pdf (4 pages, 132780 bytes).
+ 37i,8n,23p,438b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.
+pfb>
+Output written on Report.pdf (6 pages, 439157 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
